@@ -36,13 +36,7 @@ I focus on clean architecture, maintainable code, and real-world product develop
 
 ---
 
-## 📊 GitHub Activity
-
-![Karel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karel-cz&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔗 Connect With Me
 
-🔗 LinkedIn: (doplníš svůj odkaz)
+🔗 LinkedIn: https://www.linkedin.com/in/karel-%C5%A1vancar-358239291/
 🐙 GitHub: https://github.com/Karel-cz
